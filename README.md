@@ -2,7 +2,13 @@
 UEA VIII Temas selectos  
 UAM Lerma, Hernani Villaseñor, 2023
 ## Evaluación
-Actividades escritas, actividades de programación, eje integrador  
+### Unidad de contenidos
+Actividades escritas  
+Actividades de programación  
+Actividades orales  
+###Eje integrador
+Eje integrador 40% del total de la calificiación.  
+
 ## Coloquios de eje integrador
 Coloquio 1: lunes 20 de febrero 8:00 am  
 Coloquio 2: martes 14 de marzo 10:00 am  
