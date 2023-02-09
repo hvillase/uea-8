@@ -3,10 +3,10 @@ UEA VIII Temas selectos
 UAM Lerma, Hernani Villaseñor, 2023
 ## Evaluación
 ### Unidad de contenidos
-Actividades escritas  
-Actividades de programación  
-Actividades orales  
-###Eje integrador
+Actividades escritas 40%  
+Actividades de programación y tecnología 40%  
+Actividades orales 20%  
+### Eje integrador
 Eje integrador 40% del total de la calificiación.  
 
 ## Coloquios de eje integrador
