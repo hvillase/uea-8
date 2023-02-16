@@ -9,7 +9,7 @@ Winnie Soon y Geoff Cox (2020). [Aesthetic Programming](https://aesthetic-progra
 ## Clase 4
 Aesthetic [Programing repositorio](https://gitlab.com/aesthetic-programming/book)  
 AR y p5 [p5.xr](https://github.com/stalgiag/p5.xr)  
-
+Require visor. Alternativa [Google cardboard](https://arvr.google.com/intl/es-419_mx/cardboard/manufacturers/)  
 ## Evaluación
 ### Unidad de contenidos
 Actividades escritas 40%  
