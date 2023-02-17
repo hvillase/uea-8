@@ -13,7 +13,22 @@ Require visor. Alternativa [Google cardboard](https://arvr.google.com/intl/es-41
 ## Clase 5
 Coloquio 1, presentación de propuestas de forma individual  
 ## Clase 6
-
+## Tareas escritas
+Tarea 1  
+Escribe un texto o presentación de una/a artirta digital que te guste su obre  
+Tarea 2  
+Escribe en un párrafo la idea general de tu proyecto
+1 Utiliza el formato de la plantilla
+2 conviertelo a pdf
+3 guardalo y envialo cuando se solicite
+## Tareas de programación
+Tarea 1 Código con if-else, while y for  
+1 El código debe contener una estructura if-else.  
+2 El código debe contener una estructura while.  
+3 El código debe contener una estructura for.  
+4 Comenta el código antes de cada estructura.  
+5 Salva el código en tu cuenta e identifica el link único de ese ejercicio para enviarlo y que sea evaluado.
+## Participación oral
 ## Evaluación
 ### Unidad de contenidos
 Actividades escritas 40%  
