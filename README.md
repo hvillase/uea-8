@@ -15,7 +15,7 @@ Coloquio 1, presentación de propuestas de forma individual
 ## Clase 6
 ## Tareas escritas
 Tarea 1  
-Escribe un texto o presentación de una/a artirta digital que te guste su obre  
+Escribe un texto o presentación de un/a artista digital que te guste su obra  
 Tarea 2  
 Escribe en un párrafo la idea general de tu proyecto
 1 Utiliza el formato de la plantilla
@@ -29,6 +29,8 @@ Tarea 1 Código con if-else, while y for
 4 Comenta el código antes de cada estructura.  
 5 Salva el código en tu cuenta e identifica el link único de ese ejercicio para enviarlo y que sea evaluado.
 ## Participación oral
+Participación 1: lee el texto que escribiste sobre los o las artistas digitales frente al grupo.  
+Participación 2: lee el párrafo de tu idea general que escribiste frente al grupo.  
 ## Evaluación
 ### Unidad de contenidos
 Actividades escritas 40%  
