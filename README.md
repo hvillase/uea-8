@@ -6,6 +6,10 @@ UAM Lerma, Hernani Villaseñor, 2023
 ## Clase 2
 ## Clase 3
 Winnie Soon y Geoff Cox (2020). [Aesthetic Programming](https://aesthetic-programming.net/)
+Estructuras de control en p5:  
+[if-else](https://p5js.org/es/reference/#/p5/if-else)  
+[while](https://p5js.org/es/reference/#/p5/while)  
+[for](https://p5js.org/es/reference/#/p5/for)  
 ## Clase 4
 Aesthetic [Programing repositorio](https://gitlab.com/aesthetic-programming/book)  
 AR y p5 [p5.xr](https://github.com/stalgiag/p5.xr)  
@@ -42,6 +46,6 @@ Eje integrador (x)% del total de la calificiación.
 
 ## Coloquios de eje integrador
 Coloquio 1: lunes 20 de febrero 8:00 am  
-Coloquio 2: martes 14 de marzo 10:00 am  
+Coloquio 2: viernes 17 de marzo 10:00 am  
 Coloquio 3: lunes 3 de  abril 8:00 am  
 Exposición de piezas en lugar por confirmar: semana 11  
