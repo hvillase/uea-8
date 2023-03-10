@@ -16,7 +16,9 @@ AR y p5 [p5.xr](https://github.com/stalgiag/p5.xr)
 Require visor. Alternativa [Google cardboard](https://arvr.google.com/intl/es-419_mx/cardboard/)  
 ## Clase 5
 Coloquio 1, presentación de propuestas de forma individual  
-## Clase 6
+## Clase 11
+TensorFlow.js [ml 5](https://ml5js.org/)  
+
 ## Tareas escritas
 Tarea 1  
 Escribe un texto o presentación de un/a artista digital que te guste su obra  
