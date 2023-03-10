@@ -20,6 +20,7 @@ Coloquio 1, presentación de propuestas de forma individual
 ## Tareas escritas
 Tarea 1  
 Escribe un texto o presentación de un/a artista digital que te guste su obra  
+Complementa el trabajo del/a artista que escogiste con el trabajo de otro/a que consideres se encuentra en una posición diferente, por ejemplo género o geografía.  
 Tarea 2  
 Escribe en un párrafo la idea general de tu proyecto
 1 Utiliza el formato de la plantilla
