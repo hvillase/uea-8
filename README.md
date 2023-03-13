@@ -49,6 +49,6 @@ Eje integrador (x)% del total de la calificiación.
 
 ## Coloquios de eje integrador
 Coloquio 1: lunes 20 de febrero 8:00 am  
-Coloquio 2: viernes 17 de marzo 10:00 am  
+Coloquio 2: fecha por definir  
 Coloquio 3: lunes 3 de  abril 8:00 am  
 Exposición de piezas en lugar por confirmar: semana 11  
