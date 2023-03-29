@@ -19,6 +19,9 @@ Coloquio 1, presentación de propuestas de forma individual
 ## Clase 11
 TensorFlow.js [ml 5](https://ml5js.org/)  
 
+## Tecnologías
+[AR.js](https://ar-js-org.github.io/AR.js-Docs/) Realidad aumentada en la web.  
+
 ## Tareas escritas
 Tarea 1  
 Escribe un texto o presentación de un/a artista digital que te guste su obra  
