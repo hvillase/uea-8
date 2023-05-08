@@ -18,9 +18,10 @@ Require visor. Alternativa [Google cardboard](https://arvr.google.com/intl/es-41
 Coloquio 1, presentación de propuestas de forma individual  
 ## Clase 11
 TensorFlow.js [ml 5](https://ml5js.org/)  
-
+## Clase -
 ## Tecnologías
-[AR.js](https://ar-js-org.github.io/AR.js-Docs/) Realidad aumentada en la web.  
+[AR.js](https://ar-js-org.github.io/AR.js-Docs/) Realidad aumentada en la web. 
+[generador-qr](https://parzibyte.me/apps/generador-qr/) Generador de códigos QR.  
 
 ## Tareas escritas
 Tarea 1  
